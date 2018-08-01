@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
-    "summary": "Jora UI",
-    "repository": "https://github.com/jobseekerltd/jora-elm.git",
+    "summary": "elm",
+    "repository": "https://github.com/douglasroeder/elm-presentation.git",
     "license": "MIT",
     "source-directories": [
         "src"
